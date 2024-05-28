@@ -17,7 +17,8 @@ int main(int argc, char *argv[])
 }
 ```
 
-![Untitled](10%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20132e7c12a85c4f79a58a12e4d0f4f3ed/Untitled.png)
+![Untitled](https://github.com/mainug/SystemProgramming/assets/48702167/2952ede0-b70f-4150-afba-581fd80b84a3)
+
 
 실행 명령 문장 자체도 argv배열의 가장 앞에 들어가는 것을 알 수 있음
 
@@ -40,9 +41,11 @@ int main(int argc, char *argv[])
 }
 ```
 
-![Untitled](10%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20132e7c12a85c4f79a58a12e4d0f4f3ed/Untitled%201.png)
+![Untitled 1](https://github.com/mainug/SystemProgramming/assets/48702167/04a2fd31-f56f-41e0-99ec-758d38bca132)
 
-![Untitled](10%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20132e7c12a85c4f79a58a12e4d0f4f3ed/Untitled%202.png)
+
+![Untitled 2](https://github.com/mainug/SystemProgramming/assets/48702167/c689671f-2f78-455d-bca0-0609f09b1b71)
+
 
 이외의 다른 환경 변수 값도 출력
 
@@ -70,7 +73,8 @@ int main(int argc, char *argv[])
 }
 ```
 
-![Untitled](10%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20132e7c12a85c4f79a58a12e4d0f4f3ed/Untitled%203.png)
+![Untitled 3](https://github.com/mainug/SystemProgramming/assets/48702167/e2d0f793-1313-4a86-b380-c3c782f6202c)
+
 
 환경 변수 3개 HOME, SHELL, PATH가 출력 됨
 
@@ -88,7 +92,8 @@ int main()
 }
 ```
 
-![Untitled](10%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20132e7c12a85c4f79a58a12e4d0f4f3ed/Untitled%204.png)
+![Untitled 4](https://github.com/mainug/SystemProgramming/assets/48702167/251c2650-d359-4542-9c3b-0a126e9da0c8)
+
 
 ## uid.c
 
@@ -108,4 +113,5 @@ int main()
 }
 ```
 
-![Untitled](10%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20132e7c12a85c4f79a58a12e4d0f4f3ed/Untitled%205.png)
+![Untitled 5](https://github.com/mainug/SystemProgramming/assets/48702167/17da6d00-a30d-48d3-99e0-10f073c36343)
+
