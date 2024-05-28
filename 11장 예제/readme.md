@@ -16,7 +16,8 @@ int main()
 }
 ```
 
-![Untitled](11%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2097d60cd9e3114680aec17e083cee14dd/Untitled.png)
+![Untitled](https://github.com/mainug/SystemProgramming/assets/48702167/2d3b9bf2-8dfc-4ccc-a8f0-4f28570f1167)
+
 
 ## fork2.c
 
@@ -41,7 +42,8 @@ int main()
 }
 ```
 
-![Untitled](11%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2097d60cd9e3114680aec17e083cee14dd/Untitled%201.png)
+![Untitled 1](https://github.com/mainug/SystemProgramming/assets/48702167/6c584cb8-d937-4b43-9f7b-9d91a22df205)
+
 
 ## forkWait.c
 
@@ -70,7 +72,8 @@ int main()
 }
 ```
 
-![Untitled](11%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2097d60cd9e3114680aec17e083cee14dd/Untitled%202.png)
+![Untitled 2](https://github.com/mainug/SystemProgramming/assets/48702167/8d3fda63-93d2-4a10-9275-730f7f8f20fe)
+
 
 ## waitPid.c
 
@@ -108,7 +111,8 @@ int main()
 }
 ```
 
-![Untitled](11%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2097d60cd9e3114680aec17e083cee14dd/Untitled%203.png)
+![Untitled 3](https://github.com/mainug/SystemProgramming/assets/48702167/24433418-9625-48b1-b9e2-cefb62df788b)
+
 
 ## exec1.c
 
@@ -131,7 +135,8 @@ int main()
 }
 ```
 
-![Untitled](11%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2097d60cd9e3114680aec17e083cee14dd/Untitled%204.png)
+![Untitled 4](https://github.com/mainug/SystemProgramming/assets/48702167/5a7f16d0-f801-4974-bf8c-b7a3509ec27e)
+
 
 ## exec2.c
 
@@ -166,7 +171,8 @@ int main()
 }
 ```
 
-![Untitled](11%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2097d60cd9e3114680aec17e083cee14dd/Untitled%205.png)
+![Untitled 5](https://github.com/mainug/SystemProgramming/assets/48702167/b89ce223-fb44-4d6c-b525-52a105ee1776)
+
 
 ## exec3.c
 
@@ -196,7 +202,8 @@ int main(int argc, char *argv[])
 }
 ```
 
-![Untitled](11%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2097d60cd9e3114680aec17e083cee14dd/Untitled%206.png)
+![Untitled 6](https://github.com/mainug/SystemProgramming/assets/48702167/b658b41d-f0be-40d6-8769-2c10af103c44)
+
 
 ## systemTest.c
 
@@ -212,7 +219,8 @@ int main()
 }
 ```
 
-![Untitled](11%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2097d60cd9e3114680aec17e083cee14dd/Untitled%207.png)
+![Untitled 7](https://github.com/mainug/SystemProgramming/assets/48702167/9550f849-1e0a-4175-8c80-cfbcc761c2e3)
+
 
 system 내에 있는 쉘 명령을 수행하는 모습
 
@@ -275,4 +283,4 @@ int main()
 }
 ```
 
-![Untitled](11%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2097d60cd9e3114680aec17e083cee14dd/Untitled%208.png)
+![Untitled 8](https://github.com/mainug/SystemProgramming/assets/48702167/de8be751-0183-4ccb-b9bf-75986413ceff)
