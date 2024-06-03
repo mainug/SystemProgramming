@@ -54,7 +54,8 @@ int main(int argc, char *argv[])
 }
 ```
 
-![Untitled](8%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20172138ac11ac4921901f3133295f8efd/Untitled.png)
+![Untitled](https://github.com/mainug/SystemProgramming/assets/48702167/60e537c4-7170-496b-9570-f0e4c83d9410)
+
 
 ## wrlock.c
 
@@ -114,7 +115,8 @@ int main(int argc, char *argv[])
 }
 ```
 
-![Untitled](8%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20172138ac11ac4921901f3133295f8efd/Untitled%201.png)
+![Untitled 1](https://github.com/mainug/SystemProgramming/assets/48702167/d1d4a24f-9e8c-46b1-9ea9-b57c1aa59418)
+
 
 ## wrlockf.c
 
@@ -169,7 +171,8 @@ int main(int argc, char *argv[])
 }
 ```
 
-![Untitled](8%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20172138ac11ac4921901f3133295f8efd/Untitled%202.png)
+![Untitled 2](https://github.com/mainug/SystemProgramming/assets/48702167/1794dd67-426e-42f1-8703-45313e2a4e37)
+
 
 ## file_lock.c
 
