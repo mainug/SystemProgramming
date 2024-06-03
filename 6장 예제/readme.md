@@ -19,7 +19,8 @@ int main(int argc, char *argv[])
 }
 ```
 
-![Untitled](6%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20556042441baf497fac52db76c134e18e/Untitled.png)
+![Untitled](https://github.com/mainug/SystemProgramming/assets/48702167/eb81398f-e66e-47a7-b704-aa7f9af2ee26)
+
 
 ## fsize.c
 
@@ -47,7 +48,8 @@ int main(int argc, char *argv[])
 }
 ```
 
-![Untitled](6%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20556042441baf497fac52db76c134e18e/Untitled%201.png)
+![Untitled 1](https://github.com/mainug/SystemProgramming/assets/48702167/44b16e7f-2958-4901-b2b9-0f5e5a424e19)
+
 
 ## copy.c
 
