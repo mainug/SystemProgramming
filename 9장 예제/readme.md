@@ -25,7 +25,8 @@ int main(int argc, char *argv[])
 }
 ```
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2054caf32e351c43f3a4325d75ae81cbd2/Untitled.png)
+![Untitled](https://github.com/mainug/SystemProgramming/assets/48702167/54e79771-88d6-4445-9503-70a926120bce)
+
 
 test1.txt에 적혀있는 내용을 출력해줌
 
@@ -59,19 +60,23 @@ int main(int argc, char *argv[])
 }
 ```
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2054caf32e351c43f3a4325d75ae81cbd2/Untitled%201.png)
+![Untitled 1](https://github.com/mainug/SystemProgramming/assets/48702167/ab6e634b-cab9-43cc-a778-1ddb745d52a2)
+
 
 argc의 배열이 3이 아닌 상황 즉, 복사할 파일을 넣지 않은 상황에서는 위와 같이 사용법이 출력 되도록 함
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2054caf32e351c43f3a4325d75ae81cbd2/Untitled%202.png)
+![Untitled 2](https://github.com/mainug/SystemProgramming/assets/48702167/237c9b72-f07f-4fb7-b478-d5c8ce0ccc95)
+
 
 현재 test2.txt에 아무것도 작성하지 않은 상황
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2054caf32e351c43f3a4325d75ae81cbd2/Untitled%203.png)
+![Untitled 3](https://github.com/mainug/SystemProgramming/assets/48702167/cd4ae06c-c93a-4b11-ba43-ace356b4e8f9)
+
 
 위와 같이 작성하면 test1.txt의 내용을 test2.txt로 복사한다는 말
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2054caf32e351c43f3a4325d75ae81cbd2/Untitled%204.png)
+![Untitled 4](https://github.com/mainug/SystemProgramming/assets/48702167/afacaec7-accf-4ed5-b40e-720d19026162)
+
 
 복사가 잘된 모습
 
@@ -106,11 +111,13 @@ int main(int argc, char *argv[])
 }
 ```
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2054caf32e351c43f3a4325d75ae81cbd2/Untitled%205.png)
+![Untitled 5](https://github.com/mainug/SystemProgramming/assets/48702167/a2d37040-7e56-41ee-9314-cb34c51ccc18)
+
 
 test2.c 와 같이 실행 파일만 입력했을 경우 argc의 배열이 원하는 만큼 차지 않았기 때문에 사용법을 출력
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2054caf32e351c43f3a4325d75ae81cbd2/Untitled%206.png)
+![Untitled 6](https://github.com/mainug/SystemProgramming/assets/48702167/d7152236-3078-4015-9579-98b031fe8b63)
+
 
 ## test4.c
 
@@ -137,9 +144,11 @@ int main(int argc, char *argv[])
 }
 ```
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2054caf32e351c43f3a4325d75ae81cbd2/Untitled%207.png)
+![Untitled 7](https://github.com/mainug/SystemProgramming/assets/48702167/808cee98-fb51-44a0-8628-57dfa6bfe35b)
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2054caf32e351c43f3a4325d75ae81cbd2/Untitled%208.png)
+
+![Untitled 8](https://github.com/mainug/SystemProgramming/assets/48702167/dcc189d1-63c8-4167-b280-3f5ccf59e591)
+
 
 ## test5.c
 
@@ -166,8 +175,9 @@ int main(int argc, char *argv[])
 }
 ```
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2054caf32e351c43f3a4325d75ae81cbd2/Untitled%209.png)
+![Untitled 9](https://github.com/mainug/SystemProgramming/assets/48702167/da427661-a9a0-4b5a-968c-f821cd8a98c2)
+
 
 없는 파일을 지정하면 “Segmentation fault”가 출력된다
 
-![Untitled](9%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2054caf32e351c43f3a4325d75ae81cbd2/Untitled%2010.png)
+![Untitled 10](https://github.com/mainug/SystemProgramming/assets/48702167/9b1a0b7e-e57f-47dc-ab9a-755a73092d1d)
