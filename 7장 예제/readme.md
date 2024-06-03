@@ -42,7 +42,8 @@ int main(int argc, char *argv[])
 
 ### 결과
 
-![Untitled](7%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2017f4dc5cfc414cc38d2b7ca5753a90a2/Untitled.png)
+![Untitled](https://github.com/mainug/SystemProgramming/assets/48702167/62918e25-469b-4088-b04c-b0b70bece099)
+
 
 위 코드의 실행 파일을 실행할 때 어떤 파일인지 알고 싶은 파일(예시에서는 ftype.c 파일을 그대로 사용)을 공백 뒤에 넣어 확인
 
@@ -70,17 +71,20 @@ int main(int argc, char *argv[]) {
 
 ### 결과
 
-![Untitled](7%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2017f4dc5cfc414cc38d2b7ca5753a90a2/Untitled%201.png)
+![Untitled 1](https://github.com/mainug/SystemProgramming/assets/48702167/07a7d6ed-e98e-4b53-a718-14df7b5b11d8)
+
 
 현재 fchmod.c 파일의 권한은 rw-r—r—
 
 권한은 소유자(읽기/쓰기)권한, 그룹(읽기)권한, 다른 사용자(읽기)권한이 주어져 있다.
 
-![Untitled](7%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2017f4dc5cfc414cc38d2b7ca5753a90a2/Untitled%202.png)
+![Untitled 2](https://github.com/mainug/SystemProgramming/assets/48702167/18d8f68b-be74-4f61-80bc-70eb4e146123)
+
 
 fchmod.c 코드를 실행하여 10진수를 2진수로 변환해 권한을 부여하고 원하는 파일을 뒤에 삽입
 
-![Untitled](7%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2017f4dc5cfc414cc38d2b7ca5753a90a2/Untitled%203.png)
+![Untitled 3](https://github.com/mainug/SystemProgramming/assets/48702167/dc987331-1af9-4691-92c6-0fcb3d1b6481)
+
 
 현재 fchmod.c의 권한이 변경된 것을 확인 가능
 
@@ -114,15 +118,18 @@ int main(int argc, char *argv[])
 
 ### 결과
 
-![Untitled](7%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2017f4dc5cfc414cc38d2b7ca5753a90a2/Untitled%204.png)
+![Untitled 4](https://github.com/mainug/SystemProgramming/assets/48702167/e3386d13-695b-4960-881c-d0ad3fb6c365)
+
 
 현재 cptime.c의 시간 정보는 Apr 30 18:44. 이 시간 정보를 복사해 ftype.c에 적용하려고 한다.
 
-![Untitled](7%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2017f4dc5cfc414cc38d2b7ca5753a90a2/Untitled%205.png)
+![Untitled 5](https://github.com/mainug/SystemProgramming/assets/48702167/86c34cd0-b193-481c-a218-62e5fd33ab9c)
+
 
 시간 정보를 복사할 파일을 앞에 넣고 복사한 정보를 적용할 파일을 뒤에 넣는다.
 
-![Untitled](7%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2017f4dc5cfc414cc38d2b7ca5753a90a2/Untitled%206.png)
+![Untitled 6](https://github.com/mainug/SystemProgramming/assets/48702167/95e37b3a-cc3e-4f0e-ab51-f0f7f6ed8bce)
+
 
 ftype.c의 시간 정보가 cptime.와 같아진 모습
 
@@ -165,9 +172,11 @@ int main(int argc, char **argv)
 
 위 코드는 사용자가 원하는 곳의 디렉터리를 지정해 리스트를 보여주는 코드
 
-![Untitled](7%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2017f4dc5cfc414cc38d2b7ca5753a90a2/Untitled%207.png)
+![Untitled 7](https://github.com/mainug/SystemProgramming/assets/48702167/f3c213a7-3b11-4c38-8a51-0a0eca6f6614)
 
-![Untitled](7%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%2017f4dc5cfc414cc38d2b7ca5753a90a2/Untitled%208.png)
+
+![Untitled 8](https://github.com/mainug/SystemProgramming/assets/48702167/a8186f80-c26c-44f0-95d6-6ea82e9e4b0e)
+
 
 코드를 실행하면 현재 디렉터리에 있는 파일들을 리스트로 만들어 출력해준다.
 
